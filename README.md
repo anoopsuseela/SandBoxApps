@@ -1,2 +1,0 @@
-# SandBoxApps
-Created with CodeSandbox
